@@ -4,3 +4,4 @@ Using python library to edit videos with photos and not cut out the important pa
 Pip install Pyscenedetect
 
 Pip install tk
+![Uploading image.png…]()

@@ -1,4 +1,4 @@
-split video into parts and then cut the video to keep the best part of the video
+**split video into parts and then cut the video to keep the best part of the video**
 # Video-to-pictures
 Using python library to edit videos with photos and not cut out the important part
 ## install:
